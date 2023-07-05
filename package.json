@@ -1,0 +1,24 @@
+{
+  "name": "express-docker",
+  "version": "1.0.0",
+  "description": "初始化一个express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaozaiGo/express-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaozaiGo/express-docker/issues"
+  },
+  "homepage": "https://github.com/HaozaiGo/express-docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
